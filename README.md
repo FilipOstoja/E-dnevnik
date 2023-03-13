@@ -1,0 +1,2 @@
+# E-dnevnik
+E-dnevnik is a web application for keeping track of student grades easily. This application was made for education purposes and helped me learn new concepts I wasn't familiar with such as adding roles. There are 3 roles : Admin, Professor and User. Admin can change informations of users and add roles to them. The Professor can add/update/delete students and their grades in different subjects. It was the first time i was using SpringBoot and Thymeleaf and the full project was built in Java.
